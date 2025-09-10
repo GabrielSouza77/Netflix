@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="integration_state" label="Integration state" language="en" table="x_1795020_netflix_media">
+    <sys_documentation element="integration_error_message" label="Integration error message" language="en" table="x_1795020_netflix_media">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>integration_state</element>
+            <element>integration_error_message</element>
             <help/>
             <hint/>
-            <label>Integration state</label>
+            <label>Integration error message</label>
             <language>en</language>
             <name>x_1795020_netflix_media</name>
             <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-09 12:48:31</sys_created_on>
-            <sys_mod_count>11</sys_mod_count>
-            <sys_name>Integration state</sys_name>
+            <sys_created_on>2025-09-10 13:04:31</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Integration error message</sys_name>
             <sys_package display_value="Netflix" source="x_1795020_netflix">d3e85320c3732210e4b1f1d4e4013134</sys_package>
             <sys_policy/>
             <sys_scope display_value="Netflix">d3e85320c3732210e4b1f1d4e4013134</sys_scope>
-            <sys_update_name>sys_documentation_x_1795020_netflix_media_integration_state_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1795020_netflix_media_integration_error_message_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-10 13:18:41</sys_updated_on>
+            <sys_updated_on>2025-09-10 13:04:32</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

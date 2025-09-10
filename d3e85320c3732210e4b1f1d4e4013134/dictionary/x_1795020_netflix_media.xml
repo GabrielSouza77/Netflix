@@ -7,6 +7,7 @@
                 <element inactive_on_update="false" label="Series" sequence="2" value="series"/>
             </choice>
         </element>
+        <element label="Integration error message" max_length="1000" name="integration_error_message" type="string"/>
         <element label="Poster" max_length="1000" name="poster" type="url"/>
         <element label="Writers" max_length="4000" name="writers" type="string"/>
         <element label="Release year" max_length="4" name="release_year" type="string"/>
@@ -29,7 +30,7 @@
         </element>
         <element display="true" label="Title" max_length="250" name="title" type="string"/>
         <element label="Genre" max_length="1024" name="genre" reference="x_1795020_netflix_genre" type="glide_list"/>
-        <element choice="1" default="1" label="Integration state" max_length="40" name="integration_state" type="choice">
+        <element choice="1" default="1&#10;" label="Integration state" max_length="40" name="integration_state" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Media not found" sequence="4" value="7"/>
                 <element inactive_on_update="false" label="Integrating" sequence="1" value="2"/>
