@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category/>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Media suggestion</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=ff9d73b7c3772210e4b1f1d4e401318e&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method>request</request_method>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description>Make a suggestion about a media that should be in our catalogue</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>published</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-12 16:51:37</sys_created_on>
+        <sys_id>ff9d73b7c3772210e4b1f1d4e401318e</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>Media suggestion</sys_name>
+        <sys_package display_value="Netflix" source="x_1795020_netflix">d3e85320c3732210e4b1f1d4e4013134</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">d3e85320c3732210e4b1f1d4e4013134</sys_scope>
+        <sys_update_name>sc_cat_item_ff9d73b7c3772210e4b1f1d4e401318e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-12 17:16:52</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>20</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="DELETE" query="documentkey=ff9d73b7c3772210e4b1f1d4e401318e"/>
+    <fx_price action="DELETE" query="id=ff9d73b7c3772210e4b1f1d4e401318e"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="BRL">BRL</currency>
+        <field>price</field>
+        <id>ff9d73b7c3772210e4b1f1d4e401318e</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-12 16:51:37</sys_created_on>
+        <sys_id>acdd7bb7c3772210e4b1f1d4e40131c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-12 16:51:37</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>ff9d73b7c3772210e4b1f1d4e401318e</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-12 16:51:37</sys_created_on>
+        <sys_id>6cdd7bb7c3772210e4b1f1d4e40131c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-12 16:51:37</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Netflix">d3e85320c3732210e4b1f1d4e4013134</application>
+        <file_path/>
+        <instance_id>1d687a643b4aded0a36804e0b5e45ac1</instance_id>
+        <instance_name>dev290765</instance_name>
+        <name>sc_cat_item_ff9d73b7c3772210e4b1f1d4e401318e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item"><sc_cat_item action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>true</active><availability>on_desktop</availability><billable>false</billable><category/><checked_out>false</checked_out><cost>0</cost><custom_cart/><delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow/><fulfillment_automation_level>unspecified</fulfillment_automation_level><group/><hide_sp>false</hide_sp><icon/><ignore_price>true</ignore_price><image/><location/><make_item_non_conversational>false</make_item_non_conversational><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>Media suggestion</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>true</no_cart_v2><no_delivery_time_v2>true</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>true</no_quantity_v2><no_save_as_draft>false</no_save_as_draft><no_search>false</no_search><no_wishlist_v2>false</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><picture/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=ff9d73b7c3772210e4b1f1d4e401318e&amp;sysparm_preview=true", "summary");</preview><price>0</price><published_ref/><recurring_frequency/><recurring_price>0</recurring_price><request_method>request</request_method><roles/><sc_catalogs/><sc_ic_item_staging/><sc_ic_version/><sc_template/><short_description>Make a suggestion about a media that should be in our catalogue</short_description><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state>published</state><sys_class_name>sc_cat_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-12 16:51:37</sys_created_on><sys_id>ff9d73b7c3772210e4b1f1d4e401318e</sys_id><sys_mod_count>20</sys_mod_count><sys_name>Media suggestion</sys_name><sys_package display_value="Netflix" source="x_1795020_netflix">d3e85320c3732210e4b1f1d4e4013134</sys_package><sys_policy/><sys_scope display_value="Netflix">d3e85320c3732210e4b1f1d4e4013134</sys_scope><sys_update_name>sc_cat_item_ff9d73b7c3772210e4b1f1d4e401318e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-12 17:16:52</sys_updated_on><taxonomy_topic/><template/><template_manager_roles/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><version>20</version><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item><sys_translated_text action="delete_multiple" query="documentkey=ff9d73b7c3772210e4b1f1d4e401318e"/><fx_price action="delete_multiple" query="id=ff9d73b7c3772210e4b1f1d4e401318e"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="BRL">BRL</currency><field>price</field><id>ff9d73b7c3772210e4b1f1d4e401318e</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-12 16:51:37</sys_created_on><sys_id>acdd7bb7c3772210e4b1f1d4e40131c4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-12 16:51:37</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>recurring_price</field><id>ff9d73b7c3772210e4b1f1d4e401318e</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-12 16:51:37</sys_created_on><sys_id>6cdd7bb7c3772210e4b1f1d4e40131c5</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-12 16:51:37</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-302901236</payload_hash>
+        <record_name>Media suggestion</record_name>
+        <reverted_from/>
+        <source>ed8f5764c3732210e4b1f1d4e4013113</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-12 17:16:52</sys_created_on>
+        <sys_id>ee93488cc3443210e4b1f1d4e4013107</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1993eee0f710000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-12 17:16:52</sys_updated_on>
+        <type>Catalog Item</type>
+        <update_guid>6693488c414432105856acc02590fe07</update_guid>
+        <update_guid_history>6693488c414432105856acc02590fe07:-302901236,e643084c6044321001b2c2d613d2975f:1876784434,37728c0cec443210f2747048c4759e24:614858305,02620c0c79443210f9d6c7a85cb9a34c:-1296520448,8812040c6c443210faadbe04ad9a73b9:1087068095,2202c00cd4443210c3f528af49ef12c0:-824310658,1f9188c86a4432101adb876c3260ab60:1559277885,d0414c88b5443210b61ccaf27886b616:-352100868,21f04488f1443210fd81b5c2f7e4982b:2031487675,00a0808895443210bf8933bbf4725e43:120108922,8d900488474432105f1a405e3b2e4041:-1791269831,1890c088d544321099d142ab04a6c9d3:2131366159,c8808088464432108dff03992a56b29b:219987406,d7708c080a44321051899a5d2eb93479:-1691391347,9bdf777b01772210c728887ec047dfaf:692197196,165f333b097722108c21e593f6267b18:-1219181557,981f773b5477221089089552f7b7ac59:1164406986,967ef3b78c772210df22983c07f50f3f:-746971767,25edfbb7e3772210cd6ffa1ce909d4b9:1380395253,24dd7bb707772210c1b8255c588cd5dd:1508515216,e4dd7bb7b77722102850cda2ac6d86e8:915800486</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Media suggestion">2693488cc3443210e4b1f1d4e401310c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-12 17:16:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item">sc_cat_item</sys_db_object>
+        <sys_id>020d7e5fddfa4fa09e8a413360dc0c40</sys_id>
+        <sys_metadata>ff9d73b7c3772210e4b1f1d4e401318e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Media suggestion</sys_name>
+        <sys_package display_value="Netflix" source="x_1795020_netflix">d3e85320c3732210e4b1f1d4e4013134</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">d3e85320c3732210e4b1f1d4e4013134</sys_scope>
+        <sys_scope_delete display_value="">0dc4bca7e6d44270af7f939d5f01fe40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_ff9d73b7c3772210e4b1f1d4e401318e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_ff9d73b7c3772210e4b1f1d4e401318e">ee93488cc3443210e4b1f1d4e4013107</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-12 17:16:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

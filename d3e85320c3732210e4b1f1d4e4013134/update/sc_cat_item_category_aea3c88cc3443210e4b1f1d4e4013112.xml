@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Make a media suggestion">22a3c44cc3443210e4b1f1d4e401312b</sc_cat_item>
+        <sc_category display_value="Netflix">c0cf5d49c37f6210e4b1f1d4e401317b</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-12 17:17:09</sys_created_on>
+        <sys_id>aea3c88cc3443210e4b1f1d4e4013112</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Netflix.Write a review</sys_name>
+        <sys_package display_value="Netflix" source="x_1795020_netflix">d3e85320c3732210e4b1f1d4e4013134</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Netflix">d3e85320c3732210e4b1f1d4e4013134</sys_scope>
+        <sys_update_name>sc_cat_item_category_aea3c88cc3443210e4b1f1d4e4013112</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-12 17:17:09</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
