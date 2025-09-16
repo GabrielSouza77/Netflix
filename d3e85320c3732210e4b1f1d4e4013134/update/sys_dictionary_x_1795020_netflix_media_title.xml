@@ -28,7 +28,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <max_length>250</max_length>
         <name>x_1795020_netflix_media</name>
         <next_element/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Netflix">d3e85320c3732210e4b1f1d4e4013134</sys_scope>
         <sys_update_name>sys_dictionary_x_1795020_netflix_media_title</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-16 13:41:20</sys_updated_on>
+        <sys_updated_on>2025-09-16 19:00:23</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
